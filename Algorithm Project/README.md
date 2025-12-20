@@ -15,6 +15,8 @@ An interactive web-based application for visualizing and learning sorting algori
 - **Insertion Sort** - O(n²) average, O(n) best case
 - **Merge Sort** - O(n log n) all cases
 - **Quick Sort** - O(n log n) average, O(n²) worst case
+- **Heap Sort** – O(n log n) all cases
+- 
 
 ### Game Features
 - 📊 **Step-by-step visualization** with animated bars
@@ -110,3 +112,4 @@ Contributions are welcome! Feel free to:
 - Improve visualizations
 - Add new game modes
 - Fix bugs or improve performance
+
